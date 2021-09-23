@@ -1,0 +1,7 @@
+https://github.com/ServiceStack/redis-windows#running-microsofts-native-port-of-redis
+
+https://stackoverflow.com/questions/6476945/how-do-i-run-redis-on-windows
+
+https://testdriven.io/blog/django-caching/
+
+https://testdriven.io/blog/django-low-level-cache/
